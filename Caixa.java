@@ -10,7 +10,7 @@ public class Caixa {
   String nome;
   double inicial;
 
-  Scanner entrada = new Scanner(System.in);
+  Scanner entrada2 = new Scanner(System.in);
   Random numero = new Random();
 
   int conta = 1 + numero.nextInt(9999);
