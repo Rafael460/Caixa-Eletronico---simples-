@@ -1,2 +1,2 @@
 # Caixa Eletronico (simples)
-Modelo simples de caixa eletronico para aprender a usar github.
+Modelo simples de caixa eletrônico para aprender a usar github.
